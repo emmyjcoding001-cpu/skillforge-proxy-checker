@@ -1,0 +1,3 @@
+# Put your proxies here as ip:port or user:pass@ip:port
+# Example:
+# 8.8.8.8:8080
